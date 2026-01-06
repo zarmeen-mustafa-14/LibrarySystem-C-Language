@@ -4,11 +4,19 @@ A C-based Library Management System that allows complete management of books in 
 Features:
 
 Add new books with unique Book IDs
+
 Display all books with detailed information
+
 Search for books by ID
+
 Update book details and quantities
+
 Delete books from the library
+
 Issue and return books while tracking availability
+
 Persistent storage using file handling
+
 Prevents duplicate Book IDs
+
 Demonstrates arrays, structures, loops, conditionals, and functions
